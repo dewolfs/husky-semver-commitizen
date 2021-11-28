@@ -1,4 +1,13 @@
-# 1.1.0 (2021-11-28)
+# [1.2.0](https://github.com/dewolfs/husky-semver-commitizen/compare/v1.1.0...v1.2.0) (2021-11-28)
+
+
+### Features
+
+* **logging:** add log analytics workspace ([f4aed48](https://github.com/dewolfs/husky-semver-commitizen/commit/f4aed48bfbf47b61fc608d1e314dc7c8a291a5e9))
+
+
+
+# [1.1.0](https://github.com/dewolfs/husky-semver-commitizen/compare/f167c27e7f03a52dcdb34406664c311c34ea1dd3...v1.1.0) (2021-11-28)
 
 
 ### Features
