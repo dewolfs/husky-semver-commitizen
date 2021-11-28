@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/dewolfs/husky-semver-commitizen/compare/v1.3.0...v2.0.0) (2021-11-28)
+
+
+### Features
+
+* **registry:** upgrade container registry api version ([6206b63](https://github.com/dewolfs/husky-semver-commitizen/commit/6206b63399460d369877a96108592da18edf2e51))
+
+
+### BREAKING CHANGES
+
+* **registry:** upgrade container registry api version
+
+
+
 # [1.3.0](https://github.com/dewolfs/husky-semver-commitizen/compare/v1.2.0...v1.3.0) (2021-11-28)
 
 
